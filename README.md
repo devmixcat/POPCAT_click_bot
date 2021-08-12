@@ -12,7 +12,7 @@ How to install Chromedriver:
 1.download Chromedirver from the link (download base on your chrome version):
 https://sites.google.com/a/chromium.org/chromedriver/downloads
   
-2.unzip and put your chromedriver file and copy the filepath   
+2.unzip and copy the chrome dirver filepath   
 ```
 --- 
 ```
