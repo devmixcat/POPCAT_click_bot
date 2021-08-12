@@ -18,7 +18,7 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 ```
 How to use the POPCAT_click_bot.  
 1.Edit the popcat_bot.py 
-change the string your 'chrome driver path' to your 'chromedriver path'.   
+change the string 'chrome driver path' to your 'chromedriver path'.   
    
 2.In terminal enter => python popcat_bot.py  
 ```
